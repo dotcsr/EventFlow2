@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/admin/users": "pages/admin/users.html",
+  "/admin/validate": "pages/admin/validate.html",
+  "/api/hello": "pages/api/hello.js",
+  "/_error": "pages/_error.js",
+  "/client/populars": "pages/client/populars.html",
+  "/": "pages/index.html",
+  "/client/tickets": "pages/client/tickets.html",
+  "/login": "pages/login.html",
+  "/organizator/events": "pages/organizator/events.html",
+  "/organizator/generalview": "pages/organizator/generalview.html",
+  "/organizator/validate": "pages/organizator/validate.html",
+  "/404": "pages/404.html"
+}
